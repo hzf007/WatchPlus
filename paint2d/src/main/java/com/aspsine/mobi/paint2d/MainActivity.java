@@ -47,4 +47,8 @@ public class MainActivity extends AppCompatActivity {
 
         return result;
     }
+    public  void  newMessage(){
+        System.out.print(true);
+        System.out.print(true);
+    }
 }
