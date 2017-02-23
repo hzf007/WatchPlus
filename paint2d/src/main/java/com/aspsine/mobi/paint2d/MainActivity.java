@@ -44,10 +44,13 @@ public class MainActivity extends AppCompatActivity {
                 result = Math.min(result, specSize);
             }
         }
-
         return result;
     }
     public  void  newMessage(){
+        System.out.print(true);
+        System.out.print(true);
+    }
+    public  void  newMessage2(){
         System.out.print(true);
         System.out.print(true);
     }
