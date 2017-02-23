@@ -13,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         new ArrayList<>();
-        maeasureHight(2);
-        measureWidth(2);
     }
 
     private int measureWidth(int measureSpec) {
