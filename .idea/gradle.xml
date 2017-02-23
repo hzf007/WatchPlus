@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\android-studio-ide-145.3276617-windows\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/daoexamplegenerator" />
+            <option value="$PROJECT_DIR$/greendao" />
+            <option value="$PROJECT_DIR$/paint2d" />
+            <option value="$PROJECT_DIR$/swipetoloadlayout" />
+            <option value="$PROJECT_DIR$/xutils" />
+            <option value="$PROJECT_DIR$/xutils3" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

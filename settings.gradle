@@ -1,0 +1,1 @@
+include ':app', ':xutils', ':xutils3', ':greendao', ':daoexamplegenerator', ':swipetoloadlayout', ':paint2d'
